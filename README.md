@@ -6,7 +6,7 @@ O objetivo não é ser totalmente correto ou perfeito, mas sim registrar minha e
 ---
 
 **Propósito**
-- Documentar conteúdos vistos em sala de aula.  
+- Documentar conteúdos.  
 - Facilitar revisões futuras.  
 - Compartilhar com colegas, recrutadores e curiosos.  
 - Mostrar minha evolução semestre a semestre.
