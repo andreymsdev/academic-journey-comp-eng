@@ -22,11 +22,6 @@ Ao final de cada semestre, disponibilizarei um **PDF completo** com todas as ano
 
 ---
 
-Atualmente o conteúdo está em **Português (Brasil)**.  
-Em breve, pretendo traduzir para **Inglês**.
-
----
-
 **Minhas Redes:**
 <p>
   <a href="https://www.linkedin.com/in/andrey-ms" target="_blank">
