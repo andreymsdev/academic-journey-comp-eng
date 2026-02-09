@@ -1,7 +1,7 @@
 # tuplas (essas imutáveis e utilizam ()!)
-'''dias = ('seg', 'ter', 'qua')
+dias = ('seg', 'ter', 'qua')
 print(dias)
-'''
+
 
 '''
 acessando elementos:
@@ -17,7 +17,7 @@ ou
 for dia in dias:
     print(dia)
 '''
-
+'''
 RevisãoConteudoDisciplina=['Conceito Tuplas','Fazer exercício 3', 345,['rever slide 6',334]] 
 
 print(RevisãoConteudoDisciplina[0]) 
@@ -25,3 +25,4 @@ print(RevisãoConteudoDisciplina[0])
 print(RevisãoConteudoDisciplina) 
 
 RevisãoConteudoDisciplina[0]= 45 
+'''
