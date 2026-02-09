@@ -21,10 +21,10 @@ Professor Marcelo G. Manzato
 
 ---
 
-Códigos realizados:
+Tarefas realizadas:
 
-[Listas Mutáveis](lista-mutavel.py)
-[Tupla](tupla.py)
-[Atividade Avaliativa](atividade-avaliativa.md)
+- [Listas Mutáveis](lista-mutavel.py)
+- [Tupla](tupla.py)
+- [Atividade Avaliativa](atividade-avaliativa.md)
 
 
