@@ -18,7 +18,7 @@ Os conteúdos estão divididos por **semestre → matéria → semana**.
 Ao final de cada semestre, disponibilizarei um **PDF completo** com todas as anotações.
 
 **Semestres disponíveis (em andamento)**
-- [2º Semestre](./semestre-02)
+- [2º Semestre](../..)
 
 ---
 
