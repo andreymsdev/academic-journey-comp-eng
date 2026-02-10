@@ -23,8 +23,8 @@ Professor Marcelo G. Manzato
 
 Tarefas realizadas:
 
-- [Listas Mutáveis](lista-mutavel.py)
-- [Tupla](tupla.py)
+- [Listas Mutáveis](codes/lista-mutavel.py)
+- [Tupla](codes/tupla.py)
 - [Atividade Avaliativa](atividade-avaliativa.md)
 
 
