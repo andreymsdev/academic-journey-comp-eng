@@ -1,1 +1,1 @@
-![alt text](../../../../fotos/atv-avaliat-s4.png)
+![atividade-avaliativa](../../../../fotos/atv-avaliat-s4.png)
