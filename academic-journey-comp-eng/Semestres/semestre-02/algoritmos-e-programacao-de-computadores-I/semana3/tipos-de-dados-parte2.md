@@ -1,6 +1,8 @@
 # Tipos de dados (parte 2)
 Professor Marcelo G. Manzato
 
+## Semana 3
+
 **Aprendizado de listas, tuplas e operadores**
 
 **Listas:** Uma lista é uma sequência de objetos. Pode ser de qualquer tipo: int, float (pode misturar). Uma lista é representada por objetos separados por vírgula, envoltos por colchetes.
