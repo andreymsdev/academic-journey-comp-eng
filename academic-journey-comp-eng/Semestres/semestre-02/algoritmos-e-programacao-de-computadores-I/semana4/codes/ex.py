@@ -1,7 +1,7 @@
 '''
 Crie um programa em Python que:
 
-    Pergunte ao usuário o nome dele. ok
+    Pergunte ao usuário o nome dele. 
 
     Pergunte ao usuário para digitar uma expressão matemática (por exemplo: 2+3*4).
 
