@@ -1,8 +1,8 @@
 # Introdução a Conceitos de Computação
 Professor Cláudio Fabiano Motta Toledo
 
-## Semana 3
+## Semana 4
 
 ---
 
-![Atividade Avaliativa](../../../../fotos/atvcalc.png)
+![Atividade Avaliativa](../../../../fotos/atvsemana4.png)
