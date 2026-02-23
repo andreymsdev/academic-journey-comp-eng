@@ -1,0 +1,1 @@
+![Atividade Avaliativa Semana 5](../../../../fotos/atvavaliativalgoritmossem.png)
