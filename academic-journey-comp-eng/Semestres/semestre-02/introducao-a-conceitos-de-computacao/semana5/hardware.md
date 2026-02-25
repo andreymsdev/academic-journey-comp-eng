@@ -24,7 +24,7 @@ Basicamente memória é uma coleção de células, cada uma com um único endere
 
 **Endereçabilidade** número de bits armazenados em cada localização endereçável de memória.
 
- <--Leitura (memória) --> Escrita
+ <-- Leitura (memória) --> Escrita
 
 ---
 
