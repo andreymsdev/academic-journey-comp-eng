@@ -1,0 +1,1 @@
+![Atiividade Avaliativa](../../../../fotos/calculoi-semana5q2.png)
