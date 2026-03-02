@@ -1,0 +1,1 @@
+![Atividade Avaliativa Semana 7](../../../../fotos/s7atvavaliativaalgoritmos.png)
