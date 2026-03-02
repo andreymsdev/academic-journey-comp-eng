@@ -1,0 +1,1 @@
+![Atividade Avaliativa](../../../../fotos/semana7calculoI.png)
