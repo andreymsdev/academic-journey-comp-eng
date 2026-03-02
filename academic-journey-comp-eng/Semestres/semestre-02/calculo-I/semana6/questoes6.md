@@ -1,0 +1,1 @@
+![Questões](../../../../fotos/atividade-avaliativaq6calcI.png)
