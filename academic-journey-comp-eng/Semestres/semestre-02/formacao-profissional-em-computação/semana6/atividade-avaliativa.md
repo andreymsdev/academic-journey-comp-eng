@@ -1,0 +1,1 @@
+![Atividade Avaliativa SEmana 6](../../../../fotos/atividade-avaliativaformacaos6.png)
