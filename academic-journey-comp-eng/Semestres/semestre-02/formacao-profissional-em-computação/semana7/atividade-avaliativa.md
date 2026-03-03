@@ -1,0 +1,1 @@
+![Atividade Avaliativa](../../../../fotos/s7atvavaliativaformaçãoemcomp.png)
