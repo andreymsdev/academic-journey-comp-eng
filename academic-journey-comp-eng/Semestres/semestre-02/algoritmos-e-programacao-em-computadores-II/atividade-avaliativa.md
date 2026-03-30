@@ -1,0 +1,1 @@
+![Atividade Avaliativa](../../../fotos/atvavaliativaalgoritmosII1.png)
