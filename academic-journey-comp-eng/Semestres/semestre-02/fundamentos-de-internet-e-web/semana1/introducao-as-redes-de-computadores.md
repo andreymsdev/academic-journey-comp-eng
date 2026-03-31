@@ -3,7 +3,7 @@ Professor Júlio Cezar Estrella
 
 ## Semana 1
 
-**Introudção às Redes de Computadores**
+**Introdução às Redes de Computadores**
 
 Graças as redes, conseguimos com que elementos consigam se comunicar (trocar informações)
 
