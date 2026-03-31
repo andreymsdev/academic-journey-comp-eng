@@ -15,11 +15,16 @@ Um arquivo é uma sequência de bytes armazenada em memória secundária.
 **Estrutura de Pastas de cada sistema (File System Structure)**
 
 *Windows*
-![Windows](https://media.geeksforgeeks.org/wp-content/uploads/20250712180206474559/Structure.webp)
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20250712180206474559/Structure.webp" width="400">
+
 *Linux*
-![Linux](https://tecadmin.net/wp-content/uploads/2022/06/linux-filesystem-hierarchy.png)
+
+<img src="https://tecadmin.net/wp-content/uploads/2022/06/linux-filesystem-hierarchy.png" width="400">
+
 *Mac*
-![MacOs](https://www.oreilly.com/api/v2/epubs/urn:orm:book:9781449328962/files/httpatomoreillycomsourceoreillyimages1448104.png)
+
+<img src="https://www.oreilly.com/api/v2/epubs/urn:orm:book:9781449328962/files/httpatomoreillycomsourceoreillyimages1448104.png" width="400">
 
 ---
 
