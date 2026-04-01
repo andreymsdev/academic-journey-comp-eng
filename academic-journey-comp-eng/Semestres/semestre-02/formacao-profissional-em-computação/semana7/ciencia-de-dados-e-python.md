@@ -1,7 +1,7 @@
 # SEMANA 7
 Professora Alessandra Alaniz Macedo
 
-# Formação Profissional em Computação - Ciência de Dadose  Python
+# Formação Profissional em Computação - Ciência de Dado e  Python
 
 
 ### 1. Instalação de Bibliotecas
