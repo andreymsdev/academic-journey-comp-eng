@@ -4,8 +4,15 @@ Professor Júlio Cezar Estrella
 ## Semana 1
 
 **Introdução às Redes de Computadores**
+<<<<<<< HEAD
+=======
+
+---
+>>>>>>> 0a56be6 (update)
 
 Graças as redes, conseguimos com que elementos consigam se comunicar (trocar informações)
+
+---
 
 **Formadas** por diversos elementos que envolvem inúmeros blocos:
 - Usuários e aplicações.
