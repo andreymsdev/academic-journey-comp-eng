@@ -1,7 +1,7 @@
 # Fundamentos de Internet e Web
 Professor Júlio Cezar Estrella
 
-## Semana 4
+## Semana 3
 
 **Como surgiu a WWW?**
 
