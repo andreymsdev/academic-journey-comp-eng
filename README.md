@@ -19,6 +19,7 @@ Ao final de cada semestre, disponibilizarei um **PDF completo** com todas as ano
 
 **Semestres disponíveis (em andamento)**
 - [2º Semestre](academic-journey-comp-eng/Semestres/semestre-02)
+- [3º Semestre](academic-journey-comp-eng/Semestres/semestre-03)
 
 ---
 
